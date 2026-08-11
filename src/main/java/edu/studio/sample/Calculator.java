@@ -7,7 +7,7 @@ public class Calculator {
 
     /**
      * Adds two numbers.
-     *
+     * addition
      * @param a the first number
      * @param b the second number
      * @return the sum of a and b
